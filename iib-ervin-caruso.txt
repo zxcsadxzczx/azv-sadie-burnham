@@ -1,0 +1,1 @@
+A boilerplate project for kickstarting React and Redux applications. Includes preconfigured setup for webpack, Babel, ESLint, and Redux DevTools for efficient development.

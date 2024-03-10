@@ -1,0 +1,43 @@
+{
+  "name": "azv-sadie-burnham",
+  "description": "azv-sadie-burnham",
+  "version": "2.3.4",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/zxcsadxzczx",
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "@testing-library/jest-dom": "^5.16.4",
+    "iib-ervin-caruso": "^2.3.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "framer-motion": "^6.5.1",
+    "ogw-kylan-snodgrass": "^2.3.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.4.0",
+    "react-router": "^6.3.0",
+    "vkc-emanuel-simmons": "^2.3.4",
+    "react-router-dom": "^6.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zxcsadxzczx/azv-sadie-burnham.git"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "azv",
+    "sadie",
+    "burnham"
+  ],
+  "author": "zxcsadxzczx",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
